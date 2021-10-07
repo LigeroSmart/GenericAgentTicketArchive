@@ -1,0 +1,1 @@
+*/10 0,1,2,3,4,5 * * *  $HOME/bin/otrs.Console.pl Maint::GenericAgent::Run --configuration-module var::GenericAgentJobs::GenericAgentTicketArchive --debug --ticket-limit 1000
